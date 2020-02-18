@@ -1,0 +1,11 @@
+C:\Users\camil\OneDrive\Documents\Visual Studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\camil\OneDrive\Documents\Visual Studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\camil\OneDrive\Documents\Visual Studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\camil\OneDrive\Documents\Visual Studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\camil\OneDrive\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\WindowsApplication1.Calculator.resources
+C:\Users\camil\OneDrive\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\camil\OneDrive\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\WindowsApplication1.UserControl2.resources
+C:\Users\camil\OneDrive\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\camil\OneDrive\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\camil\OneDrive\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\camil\OneDrive\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
