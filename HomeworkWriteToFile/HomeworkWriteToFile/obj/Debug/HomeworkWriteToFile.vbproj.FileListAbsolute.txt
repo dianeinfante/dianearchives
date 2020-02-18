@@ -1,0 +1,11 @@
+C:\Users\patri\source\repos\HomeworkWriteToFile-master\HomeworkWriteToFile\bin\Debug\HomeworkWriteToFile.exe.config
+C:\Users\patri\source\repos\HomeworkWriteToFile-master\HomeworkWriteToFile\bin\Debug\HomeworkWriteToFile.exe
+C:\Users\patri\source\repos\HomeworkWriteToFile-master\HomeworkWriteToFile\bin\Debug\HomeworkWriteToFile.pdb
+C:\Users\patri\source\repos\HomeworkWriteToFile-master\HomeworkWriteToFile\bin\Debug\HomeworkWriteToFile.xml
+C:\Users\patri\source\repos\HomeworkWriteToFile-master\HomeworkWriteToFile\obj\Debug\HomeworkWriteToFile.vbprojAssemblyReference.cache
+C:\Users\patri\source\repos\HomeworkWriteToFile-master\HomeworkWriteToFile\obj\Debug\HomeworkWriteToFile.Form1.resources
+C:\Users\patri\source\repos\HomeworkWriteToFile-master\HomeworkWriteToFile\obj\Debug\HomeworkWriteToFile.Resources.resources
+C:\Users\patri\source\repos\HomeworkWriteToFile-master\HomeworkWriteToFile\obj\Debug\HomeworkWriteToFile.vbproj.GenerateResource.cache
+C:\Users\patri\source\repos\HomeworkWriteToFile-master\HomeworkWriteToFile\obj\Debug\HomeworkWriteToFile.exe
+C:\Users\patri\source\repos\HomeworkWriteToFile-master\HomeworkWriteToFile\obj\Debug\HomeworkWriteToFile.xml
+C:\Users\patri\source\repos\HomeworkWriteToFile-master\HomeworkWriteToFile\obj\Debug\HomeworkWriteToFile.pdb
