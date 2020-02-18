@@ -1,0 +1,11 @@
+C:\Users\patri\Desktop\HomeWork7Segment-5x5--master\HomeWork7Segment(5x5)\bin\Debug\HomeWork7Segment(5x5).exe.config
+C:\Users\patri\Desktop\HomeWork7Segment-5x5--master\HomeWork7Segment(5x5)\bin\Debug\HomeWork7Segment(5x5).exe
+C:\Users\patri\Desktop\HomeWork7Segment-5x5--master\HomeWork7Segment(5x5)\bin\Debug\HomeWork7Segment(5x5).pdb
+C:\Users\patri\Desktop\HomeWork7Segment-5x5--master\HomeWork7Segment(5x5)\bin\Debug\HomeWork7Segment(5x5).xml
+C:\Users\patri\Desktop\HomeWork7Segment-5x5--master\HomeWork7Segment(5x5)\obj\Debug\HomeWork7Segment(5x5).vbprojAssemblyReference.cache
+C:\Users\patri\Desktop\HomeWork7Segment-5x5--master\HomeWork7Segment(5x5)\obj\Debug\HomeWork7Segment_5x5_.Form1.resources
+C:\Users\patri\Desktop\HomeWork7Segment-5x5--master\HomeWork7Segment(5x5)\obj\Debug\HomeWork7Segment_5x5_.Resources.resources
+C:\Users\patri\Desktop\HomeWork7Segment-5x5--master\HomeWork7Segment(5x5)\obj\Debug\HomeWork7Segment(5x5).vbproj.GenerateResource.cache
+C:\Users\patri\Desktop\HomeWork7Segment-5x5--master\HomeWork7Segment(5x5)\obj\Debug\HomeWork7Segment(5x5).exe
+C:\Users\patri\Desktop\HomeWork7Segment-5x5--master\HomeWork7Segment(5x5)\obj\Debug\HomeWork7Segment(5x5).xml
+C:\Users\patri\Desktop\HomeWork7Segment-5x5--master\HomeWork7Segment(5x5)\obj\Debug\HomeWork7Segment(5x5).pdb
